@@ -36,7 +36,7 @@ where,
 [list of valid symbols]
 [tuples of row, column value, one tuple per line]
 For instance, for the tuple
-    0,0 1
+0,0 1
 means there is a value 1 in cell (r = 0, c = 0).
 Using the example from Figure 1a, the frst few lines of the input file corresponding
 to this example would be:
