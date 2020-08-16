@@ -1,36 +1,34 @@
 # Algorithms_Sudoku_Assignment
 This is a Java based Sudoku solver completed for an RMIT assignment. Within the Sudoku solver, there are 5 algorithms. 
-    * Backtracking
-    * AlgorX
-    * Dancing Links
-    * Backtracking Killer Sudoku Solver
-    * Advanced Killer Sudoku Solver.
+    - Backtracking
+    - AlgorX
+    - Dancing Links
+    - Backtracking Killer Sudoku Solver
+    - Advanced Killer Sudoku Solver.
 
 # How to Use
-To compile the les, run the following command from the root directory (the directory
+To compile the files, run the following command from the root directory (the directory
 that RmitSudokuTester.java is in):
-
     javac *.java grid/*.java solver/*.java
 
 Note that for Windows machine, remember to replace `/' with `n'.
 To run the framework:
 java RmitSudokuTester [puzzle fileName] [game type] [solver type] [visualisation] <output fileName>
 where,
-    * puzzle leName: name of file containing the input puzzle/grid to solve.
+    * puzzle fileName: name of file containing the input puzzle/grid to solve.
     * game type: type of sudoku game, one of {sudoku, killer}.
     * solver type: Type of solver to use, depends on the game type.
 
-    - If (standard) Sudoku is specied (sudoku), then solver should be one of {backtracking,
+    - If (standard) Sudoku is specifed (sudoku), then solver should be one of {backtracking,
       algorx, dancing}, where backtracking is the backtracking algorithm for stan-
       dard Sudoku, algorx and dancing are the exact cover approaches for standard
       Sudoku.
-    - If Killer Sudoku is specied (killer), then solver should be one of
+    - If Killer Sudoku is specifed (killer), then solver should be one of
       {backtracking, advanced}, where backtracking is the backtracking algorithm
-      for Killer Sudoku and advanced is the most ecient algorithm you can devise
+      for Killer Sudoku and advanced is the most effcient algorithm you can devise
       for solving Killer Sudoku.
     * visualisation: whether to output grid before and another after solving, one of {n , y}.
-    * output fileName: (optional) If specied, the solved grid will be outputted to this
-      file. 
+    * output fileName: (optional) If specifed, the solved grid will be outputted to this file. 
 
 # Puzzle file (input)
 # Standard Sudoku (input) The exact format for standard Sudoku is as follows:
