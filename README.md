@@ -11,7 +11,7 @@ To compile the files, run the following command from the root directory (the dir
 that RmitSudokuTester.java is in):
     javac *.java grid/*.java solver/*.java
 
-Note that for Windows machine, remember to replace `/' with `n'.
+
 To run the framework:
 java RmitSudokuTester [puzzle fileName] [game type] [solver type] [visualisation] <output fileName>
 where,
@@ -27,8 +27,8 @@ where,
       {backtracking, advanced}, where backtracking is the backtracking algorithm
       for Killer Sudoku and advanced is the most effcient algorithm you can devise
       for solving Killer Sudoku.
-    * visualisation: whether to output grid before and another after solving, one of {n , y}.
-    * output fileName: (optional) If specifed, the solved grid will be outputted to this file. 
+    - visualisation: whether to output grid before and another after solving, one of {n , y}.
+    - output fileName: (optional) If specifed, the solved grid will be outputted to this file. 
 
 # Puzzle file (input)
 # Standard Sudoku (input) The exact format for standard Sudoku is as follows:
@@ -38,7 +38,7 @@ where,
 For instance, for the tuple
     0,0 1
 means there is a value 1 in cell (r = 0, c = 0).
-Using the example from Figure 1a, the rst few lines of the input le corresponding
+Using the example from Figure 1a, the frst few lines of the input file corresponding
 to this example would be:
 9
 1 2 3 4 5 6 7 8 9
@@ -54,7 +54,7 @@ to this example would be:
 [list of valid symbols ]
 [number of cages]
 [Total of cages, list of row , column for each cage , one per line]
-Using the example from Figure 2a, the rst few lines of le corresponding to this
+Using the example from Figure 2a, the first few lines of file corresponding to this
 example would be:
 9
 1 2 3 4 5 6 7 8 9
