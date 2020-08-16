@@ -1,0 +1,29 @@
+References:
+
+=================================================================================================================================================
+(Sudoku | Backtracking-7 - GeeksforGeeks, 2020)
+GeeksforGeeks. 2020. Sudoku | Backtracking-7 - Geeksforgeeks. 
+[online] Available at: <https://www.geeksforgeeks.org/sudoku-backtracking-7/> 
+[Accessed 6 May 2020].
+=================================================================================================================================================
+(Revisiting Donald Knuth’s Algorithm X and Dancing Links to solve Sudoku puzzles, 2019)
+Kev's Development Toolbox. 2020. Revisiting Donald Knuth’S Algorithm X And Dancing Links To Solve Sudoku Puzzles. 
+[online] Available at: <https://www.kevinhooke.com/2019/01/22/revisiting-donald-knuths-algorithm-x-and-dancing-links-to-solve-sudoku-puzzles/> 
+[Accessed 18 May 2020].
+=================================================================================================================================================
+(Building A Sudoku Solver In Java With Dancing Links, 2019)
+Medium. 2020. Building A Sudoku Solver In Java With Dancing Links. 
+[online] Available at: <https://medium.com/javarevisited/building-a-sudoku-solver-in-java-with-dancing-links-180274b0b6c1> 
+[Accessed 18 May 2020].
+=================================================================================================================================================
+(Backtracking Algorithm – Sudoku Solver | 101 Computing, 2017)
+101 Computing. 2020. Backtracking Algorithm – Sudoku Solver | 101 Computing. 
+[online] Available at: <https://www.101computing.net/backtracking-algorithm-sudoku-solver/#:~:text=Backtracking%20Algorithm,
+						until%20a%20solution%20is%20found.&text=Backtracking%20algorithms%20can%20be%20used,Puzzle%20or%20a%20Sudoku%20grid.> 
+[Accessed 7 May 2020].
+=================================================================================================================================================
+(Create a Sudoku Solver in Java | Baeldung, 2018)
+Baeldung.com. 2018. 
+[online] Available at: <https://www.baeldung.com/java-sudoku> 
+[Accessed 27 May 2020].
+=================================================================================================================================================
